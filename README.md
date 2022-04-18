@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Wodemas10
 - 👀 I’m interested in  computer programming
 - 🌱 I’m currently learning   language and software 
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "temucinsamet1234@gmail.com"
 -My english is intermediate level :)
 <!---
